@@ -33,7 +33,7 @@ Other functionalities are:<br>
    File -> New -> Project from Version Control -> GitHub (Url: https://github.com/sreeleela/ExpenseTracker.git )(clone from here)<br>
    Now Run the Project
    
-2. Download Zip file of Project and unzip it (Suppose the unziped folder is in downloads and the name is ExpenseTracker-master)
+2. Download Zip file of Project and unzip it (Suppose the unziped folder is in downloads and the name is ExpenseTracker-master)<br>
    open android studio<br>
    File -> New -> Import Project<br>
    Select Eclipse or Gradle Project to Import<br>
