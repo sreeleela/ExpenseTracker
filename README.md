@@ -37,7 +37,7 @@ Other functionalities are:<br>
    open android studio<br>
    File -> New -> Import Project<br>
    Select Eclipse or Gradle Project to Import<br>
-   Downloads -> ExpenseTracker-master -> Expense-Tracker-master<br>
+   Downloads -> ExpenseTracker-master -> ExpenseTracker-master<br>
    Now run the project<br>
    
 <br>If the build fails do the following<br>
