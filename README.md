@@ -29,9 +29,17 @@ Other functionalities are:<br>
 
 # How to run this project
 
-open android studio<br>
-File -> New -> Project from Version Control -> GitHub (Url: https://github.com/sreeleela/ExpenseTracker.git )(clone from here)<br>
-<br>
-If the build fails do the following<br>
+1. open android studio<br>
+   File -> New -> Project from Version Control -> GitHub (Url: https://github.com/sreeleela/ExpenseTracker.git )(clone from here)<br>
+   Now Run the Project
+   
+2. Download Zip file of Project and unzip it (Suppose the unziped folder is in downloads and the name is ExpenseTracker-master)
+   open android studio<br>
+   File -> New -> Import Project<br>
+   Select Eclipse or Gradle Project to Import<br>
+   Downloads -> ExpenseTracker-master -> Expense-Tracker-master<br>
+   Now run the project<br>
+   
+<br>If the build fails do the following<br>
 Tools -> Android -> Syn Project with Gradle Files<br>
-Now Run the Project
+And run the project again
