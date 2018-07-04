@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/expenselist"
+    android:name="com.example.sree.expensetracker.ExpensesList"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    app:layoutManager="LinearLayoutManager"
+    tools:context="com.example.sree.expensetracker.ExpensesList"
+    tools:listitem="@layout/fragment_item">
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignStart="@+id/listMessage"
+        android:layout_alignTop="@+id/listMessage"
+        android:layout_marginTop="39dp" />
+
+    <TextView
+        android:id="@+id/listMessage"
+        android:layout_width="350dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp" />
+
+</RelativeLayout>
