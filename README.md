@@ -26,3 +26,12 @@ Other functionalities are:<br>
 <br>Password: password
 <br>
 <br>SQLite is used.
+
+# How to run this project
+
+open android studio<br>
+File -> New -> Project from Version Control -> GitHub (Url: https://github.com/sreeleela/ExpenseTracker.git )(clone from here)<br>
+<br>
+If the build fails do the following<br>
+Tools -> Android -> Syn Project with Gradle Files<br>
+Now Run the Project
