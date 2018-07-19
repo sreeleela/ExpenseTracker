@@ -6,6 +6,8 @@ Individual Project<br>
 RID: 820852403<br>
 Sree Leela Nadipalli<br>
 <br>
+Minimum required SDK was set to API 19 (Android 4.4 KitKat) and target Pixel.
+<br>
 Add your expenses and track them. Shows yearly, monthly and daily expenses. You can add, delete and edit them.<br>
 Other functionalities are:<br>
   * Users can update their account.
